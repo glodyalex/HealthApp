@@ -1,3 +1,3 @@
 # HealthApp
-Here is an app about general heath
+Here is an app about general health 
 
